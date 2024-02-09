@@ -27,6 +27,7 @@ language_extensions = {
     "php": "php",
     # 'powershell': 'ps1',
     "python": "py",
+    # "python": "ipynb",
     "protobuf": "proto",
     "r": "r",
     # 'racket': 'rkt',
@@ -55,6 +56,7 @@ language_name_overrides = {
     "go": ["go", "go lang", "go language"],
     "r": ["are language"],
     "tex": ["tech", "lay tech", "latex"],
+    "python": ["piton"]
 }
 
 mod = Module()
