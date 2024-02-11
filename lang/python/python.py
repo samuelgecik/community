@@ -6,6 +6,7 @@ mod = Module()
 ctx = Context()
 ctx.matches = r"""
 code.language: python
+code.language: ipython
 """
 ctx.lists["user.code_common_function"] = {
     "enumerate": "enumerate",

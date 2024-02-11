@@ -1,4 +1,5 @@
 code.language: python
+code.language: ipython
 -
 tag(): user.code_imperative
 tag(): user.code_object_oriented
